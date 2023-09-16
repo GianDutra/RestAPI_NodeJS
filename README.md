@@ -61,7 +61,7 @@ Creates a new transaction associated with the authenticated user. Requires the f
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:GianDutra/Transactions_RestAPI.git
+$ git clone https://github.com/GianDutra/Transactions_RestAPI.git
 
 # Access the project folder in your terminal
 $ cd Transactions_RestAPI
